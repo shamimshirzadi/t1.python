@@ -1,0 +1,6 @@
+print (' vazn ro be kg vared kon ')
+w = int (input())
+print('ghad ra vared kon bar hasb m')
+h = int (input())
+bmi = w / (h^2)
+print (bmi)
